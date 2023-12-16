@@ -1,5 +1,5 @@
 # nodejs
-
+```
 const { spawn } = require('child_process');
 const fs = require('fs');
 
@@ -55,3 +55,4 @@ const run2 = async () => {
 
 run1();
 run2();
+```
